@@ -1,0 +1,11 @@
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\bin\Debug\dunwoody_residency.exe.config
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\bin\Debug\dunwoody_residency.exe
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\bin\Debug\dunwoody_residency.pdb
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.csprojResolveAssemblyReference.cache
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.Properties.Resources.resources
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.csproj.GenerateResource.Cache
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.csproj.CoreCompileInputs.cache
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.exe
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.pdb
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.form_login.resources
+C:\schooldata\semester3\AdvancedProgramming\Project-3\dunwoody_residency\dunwoody_residency\obj\Debug\dunwoody_residency.form_resident.resources
